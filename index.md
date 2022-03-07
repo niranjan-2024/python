@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to PYTHON files maintained by Niranjan
 
 You can use the [editor on GitHub](https://github.com/niranjan-2024/python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
