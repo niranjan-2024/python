@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/niranjan-2024/python/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!--### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,17 +25,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-```
+```-->
 ### [1.Sieve of eratosthenes](https://github.com/niranjan-2024/python/blob/main/Sieve%20of%20eratosthenes.py)
-`def sieve_of_erastosthenes(n):
-   prime_list = []
-   for i in range(2, n+1):
-      if i not in prime_list:
-         print(i)
-         for j in range(i*i , n+1, i):
-            prime_list.append(j)
-            
-sieve_of_erastosthenes(100)`
+### [2.Pyhton List](https://github.com/niranjan-2024/python/blob/main/List.py)
+### [3.Pyhton Tuple](https://github.com/niranjan-2024/python/blob/main/Tuple.py)
+### [4.Pyhton Sets](https://github.com/niranjan-2024/python/blob/main/Set.py)
+### [5.Pyhton Dictionary](https://github.com/niranjan-2024/python/blob/main/Dictionary.py)
+
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
@@ -45,3 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3
