@@ -27,10 +27,10 @@ Syntax highlighted code block
 
 ```-->
 ### [1.Sieve of eratosthenes](https://github.com/niranjan-2024/python/blob/main/Sieve%20of%20eratosthenes.py)
-### [2.Pyhton List](https://github.com/niranjan-2024/python/blob/main/List.py)
-### [3.Pyhton Tuple](https://github.com/niranjan-2024/python/blob/main/Tuple.py)
-### [4.Pyhton Sets](https://github.com/niranjan-2024/python/blob/main/Set.py)
-### [5.Pyhton Dictionary](https://github.com/niranjan-2024/python/blob/main/Dictionary.py)
+### [2.Python List](https://github.com/niranjan-2024/python/blob/main/List.py)
+### [3.Python Tuple](https://github.com/niranjan-2024/python/blob/main/Tuple.py)
+### [4.Python Sets](https://github.com/niranjan-2024/python/blob/main/Set.py)
+### [5.Python Dictionary](https://github.com/niranjan-2024/python/blob/main/Dictionary.py)
 
 
 
