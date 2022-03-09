@@ -24,8 +24,18 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 ### [1.Sieve of eratosthenes](https://github.com/niranjan-2024/python/blob/main/Sieve%20of%20eratosthenes.py)
+`def sieve_of_erastosthenes(n):
+   prime_list = []
+   for i in range(2, n+1):
+      if i not in prime_list:
+         print(i)
+         for j in range(i*i , n+1, i):
+            prime_list.append(j)
+            
+sieve_of_erastosthenes(100)`
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
